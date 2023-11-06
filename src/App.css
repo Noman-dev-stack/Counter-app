@@ -1,0 +1,33 @@
+/* App.css */
+.counter-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin: 0;
+}
+
